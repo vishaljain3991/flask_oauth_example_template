@@ -1,6 +1,6 @@
 flask-oauth-example-template
 ============================
-(Inspired from http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
+(Inspired from http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)  
 1. Create a virtual environment and install the packages in the requirements.txt file (you can use Python 2.7 or 3.4).
    --> pip install -r requirements.txt
 2. Register "apps" with Facebook and Twitter.
